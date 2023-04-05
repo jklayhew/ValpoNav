@@ -112,7 +112,7 @@ Project Link: [https://github.com/charliemalach/ValpoNav](https://github.com/cha
 
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+Here is a list resources we found helpful and would like to give credit to.
 
 - [Leaflet.js](https://leafletjs.com/)
 - [W3Schools](https://www.w3schools.com/)
