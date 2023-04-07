@@ -7,7 +7,8 @@ var residential_halls = [{
         lng: -87.04077,
         link: 'https://www.valpo.edu/reslife/residence-halls/alumni-hall/',
         desc: "Alumni hall is a co-ed residence hall that has a capacity for 348 students. Alumni is a traditional style hall that houses students in double rooms that include bolster beds, wall closets, desks with chairs, bookshelves and dressers.",
-        image: 'https://marvel-b1-cdn.bc0a.com/f00000000181213/www.valpo.edu/reslife/files/2022/05/20210709-JLH-Alumni-Hall-001-600x400.jpg'
+        image: 'https://marvel-b1-cdn.bc0a.com/f00000000181213/www.valpo.edu/reslife/files/2022/05/20210709-JLH-Alumni-Hall-001-600x400.jpg',
+        pdf:'./floorplans/ALU - Alumni Hall - Floor Plans.pdf'
     },
     {
         name: 'Beacon Hall',
@@ -15,7 +16,8 @@ var residential_halls = [{
         lng: -87.04345,
         link: 'https://www.valpo.edu/reslife/residence-halls/beacon-hall/',
         desc: "Beacon hall is a co-ed residence hall that has the capacity for 290 students. Beacon is a suite style hall that houses upper-class students in four, six, or eight person suites.",
-        image: 'https://marvel-b1-cdn.bc0a.com/f00000000181213/www.valpo.edu/reslife/files/2020/02/20140718-JLH-Beacon-Hall-004-600x400.jpg'
+        image: 'https://marvel-b1-cdn.bc0a.com/f00000000181213/www.valpo.edu/reslife/files/2020/02/20140718-JLH-Beacon-Hall-004-600x400.jpg',
+        pdf:'./floorplans/BEA - Beacon Hall - Floor Plans.pdf'
     },
     {
         name: 'Brandt Hall',
@@ -23,7 +25,8 @@ var residential_halls = [{
         lng: -87.03931,
         link: 'https://www.valpo.edu/reslife/residence-halls/brandt-hall/',
         desc: "Brandt hall is a co-ed residence hall that has a capacity for 332 students. Brandt is a traditional style hall that houses students in double rooms that include movable beds, closets, desks with chairs, bookshelves and dressers.",
-        image: 'https://marvel-b1-cdn.bc0a.com/f00000000181213/www.valpo.edu/reslife/files/2020/03/Brandt-Building-3-600x400.jpg'
+        image: 'https://marvel-b1-cdn.bc0a.com/f00000000181213/www.valpo.edu/reslife/files/2020/03/Brandt-Building-3-600x400.jpg',
+        pdf:'./floorplans/BRN - Brandt Hall - Floor Plans.pdf'
     },
     {
         name: 'Guild/Memorial Hall',
@@ -31,7 +34,8 @@ var residential_halls = [{
         lng: -87.04602,
         link: 'https://www.valpo.edu/reslife/residence-halls/guildmemorial-hall/',
         desc: "Guild and Memorial Halls were the first residence halls on Valparaiso University’s campus, and in 1999 they were joined to make our current Guild/Memorial Hall. “GM” is a co-ed hall that has the capacity for 294 students, with 137 upper-class women living on the Guild side and 157 upper-class men living on the Memorial side.",
-        image: 'https://marvel-b1-cdn.bc0a.com/f00000000181213/www.valpo.edu/reslife/files/2020/03/20111007-Guild-Hall_0007-600x400.jpg'
+        image: 'https://marvel-b1-cdn.bc0a.com/f00000000181213/www.valpo.edu/reslife/files/2020/03/20111007-Guild-Hall_0007-600x400.jpg',
+        pdf:'./floorplans/GM - Guild Memorial Hall - Floor Plans.pdf'
     },
     {
         name: 'Kade-Duesenberg German House',
@@ -39,7 +43,8 @@ var residential_halls = [{
         lng: -87.04975,
         link: 'https://www.valpo.edu/reslife/residence-halls/kadeduesenberg-german-house/',
         desc: "Kade-Dusenberg German House is a co-ed residence hall that has a capacity for 13 students. Residents of Kade study German language and culture through a partnership between Foreign Languages and Residential Life. This hall is unique in that the German language must be spoken at all times in the public areas of the facility, such as the kitchen and lounges, in order to promote immersion and learning.",
-        image: 'https://marvel-b1-cdn.bc0a.com/f00000000181213/www.valpo.edu/reslife/files/2020/12/20140430-JLH-Campus-Scenes-013-600x400.jpg'
+        image: 'https://marvel-b1-cdn.bc0a.com/f00000000181213/www.valpo.edu/reslife/files/2020/12/20140430-JLH-Campus-Scenes-013-600x400.jpg',
+        pdf:'./floorplans/GCC - German Cultural Center - Floor Plans.pdf'
     },
     {
         name: 'Lankenau Hall',
@@ -47,7 +52,8 @@ var residential_halls = [{
         lng: -87.04204,
         link: 'https://www.valpo.edu/reslife/residence-halls/lankenau-hall/',
         desc: "Lankeanu hall is a co-ed residence hall that has a capacity for 332 students. Lankenau is a traditional style hall that houses predominately freshman students in double rooms that include bolster beds, closets, desks with chairs, bookshelves and dressers.",
-        image: 'https://marvel-b1-cdn.bc0a.com/f00000000181213/www.valpo.edu/reslife/files/2016/04/20160620-JLH-Lankenau-Hall-001.jpg'
+        image: 'https://marvel-b1-cdn.bc0a.com/f00000000181213/www.valpo.edu/reslife/files/2016/04/20160620-JLH-Lankenau-Hall-001.jpg',
+        pdf:'./floorplans/LNK - Lankenau Hall - Floor Plans.pdf'
     },
     {
         name: 'Promenade Apartments',
@@ -63,7 +69,8 @@ var residential_halls = [{
         lng: -87.04256,
         link: 'https://www.valpo.edu/reslife/residence-halls/promenade/',
         desc: "Houses upperclass female students, including women in sororities. Sorority chapter rooms located on the first floor. Double rooms equipped with beds, bolsters, wall closets, desks with chairs, bookshelves, and dressers. Traditional corridor-style residence facility with community bathrooms that are cleaned daily by Housekeeping staff members. ",
-        image: 'https://marvel-b1-cdn.bc0a.com/f00000000181213/www.valpo.edu/reslife/wp-content/uploads/sites/169/nggallery/sheele-hall/20131108-JLH-Fall-Scenes-068.jpg'
+        image: 'https://marvel-b1-cdn.bc0a.com/f00000000181213/www.valpo.edu/reslife/wp-content/uploads/sites/169/nggallery/sheele-hall/20131108-JLH-Fall-Scenes-068.jpg',
+        pdf:'./floorplans/SHL - Scheele Hall - Floor Plans.pdf'
     },
     {
         name: 'Wehrenberg Hall',
@@ -71,7 +78,8 @@ var residential_halls = [{
         lng: -87.03851,
         link: 'https://www.valpo.edu/reslife/residence-halls/wehrenberg-hall/',
         desc: "Wehrenberg Hall is a co-ed residence hall with a capacity for 269 students. Wehrenberg is a traditional style hall that houses upper-class students in double rooms that include movable beds, desks with chairs, built in wall closets, bookshelves, and dressers.",
-        image: 'https://www.valpo.edu/reslife/files/2020/12/20110825-Wehrenberg-Hall_0001-600x400.jpg'
+        image: 'https://www.valpo.edu/reslife/files/2020/12/20110825-Wehrenberg-Hall_0001-600x400.jpg',
+        pdf:'./floorplans/WHR - Wherenberg Hall - Floor Plans.pdf'
     },
 
 

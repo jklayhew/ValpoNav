@@ -7,7 +7,7 @@ var off_campus_buildings = [{
         lng: -87.06254,
         link: './offcampus.html?buildingIndex=',
         desc: "CVS Pharmacy, Inc. is an American retail corporation. A subsidiary of CVS Health, it is headquartered in Woonsocket, Rhode Island. It was also known as, and originally named, the Consumer Value Store and was founded in Lowell, Massachusetts, in 1963. <br><br> Valparaiso University is excited to extend our OneCard program to off campus merchants.This enables us to partner with local businesses to allow students, faculty and staff to use their Beacon Bucks for payment at local business around the Valpo area! For more information, visit <a href=https://www.valpo.edu/it/onecard/beacon-bucks/off-campus-merchants/ style= color:blue target=_blank> here</a>",
-        image: 'https://www.cvshealth.com/content/dam/enterprise/cvs-enterprise/images/ingestion/2021/cvs-health-cvs-health-announces-steps-to-accelerate-omnichannel-health-strategy-1-16x9.jpg'
+        image: 'https://www.cvshealth.com/content/dam/enterprise/cvs-enterprise/images/ingestion/2021/cvs-health-cvs-health-announces-steps-to-accelerate-omnichannel-health-strategy-1-16x9.jpg',
     },
     {
         name: 'Dominos Pizza',
