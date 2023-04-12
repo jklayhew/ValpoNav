@@ -173,7 +173,7 @@ var buildings = [{
     lng: -87.04059,
     link: './oncampus.html?buildingIndex=',
     desc: "Neils Science Center is an university building in Indiana. Neils Science Center is situated nearby to Christopher Center and Brown Field.",
-    image: 'http://www.aplf-planetariums.org/images/planetariums/valparaiso_university_in.jpg',
+    image: 'https://bloximages.newyork1.vip.townnews.com/valpotorch.com/content/tncms/assets/v3/editorial/0/32/032c2888-d4ac-11ed-aca0-af155efcb95b/642f1566d3467.image.jpg',
     pdf:'./floorplans/NSC - Neils Science Center - Floor Plans.pdf'
 }, {
     name: 'Schnabel Hall',

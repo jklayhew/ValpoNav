@@ -14,7 +14,7 @@ for (var i = 0; i < buildings.length; i++) {
     var building = buildings[i];
     var marker = L.marker([building.lat, building.lng], { icon: yellowIcon }).addTo(map);
     marker.bindPopup(`<b>${building.name}</b><br>
-    <a href="oncampus.html?buildingIndex=${buildings.indexOf(building)}" target="_blank">More Info</a>`);
+    <a href="oncampus.html?buildingIndex=${buildings.indexOf(building)}" >More Info</a>`);
     marker.addEventListener("click", function(e) {
         map.panTo(this.getLatLng());
     });
@@ -74,7 +74,7 @@ for (var i = 0; i < off_campus_buildings.length; i++) {
     var off_building = off_campus_buildings[i];
     var marker = L.marker([off_building.lat, off_building.lng], { icon: redIcon }).addTo(map);
     marker.bindPopup(`<b>${off_building.name}</b><br>
-    <a href="offcampus.html?buildingIndex=${off_campus_buildings.indexOf(off_building)}" target="_blank">More Info</a>`);
+    <a href="offcampus.html?buildingIndex=${off_campus_buildings.indexOf(off_building)}" >More Info</a>`);
     marker.addEventListener("click", function(e) {
         map.panTo(this.getLatLng());
     });
@@ -136,7 +136,7 @@ for (var i = 0; i < residential_halls.length; i++) {
     var residential_hall = residential_halls[i];
     var marker = L.marker([residential_hall.lat, residential_hall.lng], { icon: greenIcon }).addTo(map);
     marker.bindPopup(`<b>${residential_hall.name}</b><br>
-    <a href="residencehalls.html?buildingIndex=${residential_halls.indexOf(residential_hall)}" target="_blank">More Info</a>`);
+    <a href="residencehalls.html?buildingIndex=${residential_halls.indexOf(residential_hall)}" >More Info</a>`);
     marker.addEventListener("click", function(e) {
         map.panTo(this.getLatLng());
     });
@@ -198,7 +198,7 @@ for (var i = 0; i < parking_lots.length; i++) {
     var parking_lot = parking_lots[i];
     var marker = L.marker([parking_lot.lat, parking_lot.lng], { icon: blueIcon }).addTo(map);
     marker.bindPopup(`<b>${parking_lot.name}</b><br>
-    <a href="parking.html?buildingIndex=${parking_lots.indexOf(parking_lot)}" target="_blank">More Info</a>`);
+    <a href="parking.html?buildingIndex=${parking_lots.indexOf(parking_lot)}" >More Info</a>`);
     marker.addEventListener("click", function(e) {
         map.panTo(this.getLatLng());
     });
@@ -269,7 +269,7 @@ for (var i = 0; i < health_safety_buildings.length; i++) {
     var health_safe = health_safety_buildings[i];
     var marker = L.marker([health_safe.lat, health_safe.lng], { icon: violetIcon }).addTo(map);
     marker.bindPopup(`<b>${health_safe.name}</b><br>
-        <a href="healthsafety.html?buildingIndex=${health_safety_buildings.indexOf(health_safe)}" target="_blank">More Info</a>`);
+        <a href="healthsafety.html?buildingIndex=${health_safety_buildings.indexOf(health_safe)}" >More Info</a>`);
     marker.addEventListener("click", function(e) {
         map.panTo(this.getLatLng());
     });
@@ -330,7 +330,7 @@ for (var i = 0; i < recreational_buildings.length; i++) {
     var recreational = recreational_buildings[i];
     var marker = L.marker([recreational.lat, recreational.lng], { icon: OrangeIcon }).addTo(map);
     marker.bindPopup(`<b>${recreational.name}</b><br>
-        <a href="recreational.html?buildingIndex=${recreational_buildings.indexOf(recreational)}" target="_blank">More Info</a>`);
+        <a href="recreational.html?buildingIndex=${recreational_buildings.indexOf(recreational)}" >More Info</a>`);
     marker.addEventListener("click", function(e) {
         map.panTo(this.getLatLng());
     });

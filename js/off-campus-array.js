@@ -55,7 +55,7 @@ var off_campus_buildings = [{
         lng: -87.02895,
         link: './offcampus.html?buildingIndex=',
         desc: "Quiznos is known for toasted, build-your-own subs, this counter-serve chain also sells soups, salads & more. <br><br> Valparaiso University is excited to extend our OneCard program to off campus merchants.This enables us to partner with local businesses to allow students, faculty and staff to use their Beacon Bucks for payment at local business around the Valpo area! For more information, visit <a href=https://www.valpo.edu/it/onecard/beacon-bucks/off-campus-merchants/ style= color:blue target=_blank> here</a> ",
-        image: 'https://cdn.winsightmedia.com/platform/files/public/2018-06/background/Quiznos-exterior_1528901830.jpg/'
+        image: 'https://images-ext-2.discordapp.net/external/NrVomgsvoofUsnru2HYQPey00qlwUiOWgsafsgMrysE/https/media-cdn.tripadvisor.com/media/photo-s/06/a4/b4/78/quiznos.jpg'
     }
 ];
 
