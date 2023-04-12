@@ -45,9 +45,9 @@
     <br>
 
     <div class="building-contents" style="color: black">
-        <h3><b>Description:</b> <span id="building-desc"></span></h3>
+        <h3><b>Description:</b></h3> <span id="building-desc"></span>
         <br>
-        <h3><b>Permitted to park here:</b> <span id="permitted"></span></h3>
+        <h3><b>Permitted to park here:</b> </h3><span id="permitted"></span>
         <a id="building-link" style="color: black"></a>
         <br>
         
@@ -62,9 +62,7 @@
         document.getElementById("building-name").innerHTML = parking_lots[index].name;
         document.getElementById("building-desc").innerHTML = parking_lots[index].desc;
         document.getElementById("building-image").src = parking_lots[index].image;
-        document.getElementById("building-link").innerHTML = parking_lots[index].link;
         document.getElementById("permitted").innerHTML = parking_lots[index].permitted;
-        document.getElementById("building-link").href = parking_lots[index].link;
     </script>
 </body>
 

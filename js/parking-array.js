@@ -7,7 +7,7 @@ var parking_lots = [{
         lng: -87.03923,
         permitted: "Faculty, Staff",
         desc: "Some parking areas are divided into specific permit zones. ",
-        image: 'https://lh3.googleusercontent.com/blogger_img_proxy/AHs97-lC8y-V2Wbht2qUpQb8toeE2ZqzTrIcqoWJY-iwi9EH5MOBkdnGM3BfEsDR289xAiXxemf1L6yJg2HRu4sa9I3sejX8TDIZaiLWpMApF3jEENoui5by_BGqV4CvZZ-Lf9ceux5kVXb0kbzk35JxXGYr=s0-d'
+        image: 'https://i0.wp.com/southseattleemerald.com/wp-content/uploads/2021/04/parkingenforcement_flickr_MackMale_cropped.jpg?fit=1200%2C675&ssl=1'
     },
     {
 
@@ -16,7 +16,7 @@ var parking_lots = [{
         lng: -87.03776,
         permitted: "Faculty, Staff, Visitor",
         desc: "Some parking areas are divided into specific permit zones. ",
-        image: 'https://pbs.twimg.com/profile_images/1136384584239632386/3oMInKza_400x400.jpg'
+        image: 'https://i0.wp.com/southseattleemerald.com/wp-content/uploads/2021/04/parkingenforcement_flickr_MackMale_cropped.jpg?fit=1200%2C675&ssl=1'
     },
     {
 
@@ -25,7 +25,7 @@ var parking_lots = [{
         lng: -87.03703,
         permitted: "Faculty, Staff, Visitor",
         desc: "Some parking areas are divided into specific permit zones. ",
-        image: 'https://pbs.twimg.com/profile_images/1136384584239632386/3oMInKza_400x400.jpg'
+        image: 'https://i0.wp.com/southseattleemerald.com/wp-content/uploads/2021/04/parkingenforcement_flickr_MackMale_cropped.jpg?fit=1200%2C675&ssl=1'
     },
     {
 
@@ -34,7 +34,7 @@ var parking_lots = [{
         lng: -87.03714,
         permitted: "Faculty",
         desc: "Some parking areas are divided into specific permit zones. ",
-        image: 'https://pbs.twimg.com/profile_images/1136384584239632386/3oMInKza_400x400.jpg'
+        image: 'https://i0.wp.com/southseattleemerald.com/wp-content/uploads/2021/04/parkingenforcement_flickr_MackMale_cropped.jpg?fit=1200%2C675&ssl=1'
     },
     {
 
@@ -43,7 +43,7 @@ var parking_lots = [{
         lng: -87.03981,
         permitted: "Faculty, Staff, Visitor",
         desc: "Some parking areas are divided into specific permit zones. ",
-        image: 'https://pbs.twimg.com/profile_images/1136384584239632386/3oMInKza_400x400.jpg'
+        image: 'https://i0.wp.com/southseattleemerald.com/wp-content/uploads/2021/04/parkingenforcement_flickr_MackMale_cropped.jpg?fit=1200%2C675&ssl=1'
     },
     {
         name: 'Lot 13',
@@ -51,7 +51,7 @@ var parking_lots = [{
         lng: -87.04219,
         permitted: "Faculty, Staff, Visitor",
         desc: "Some parking areas are divided into specific permit zones. ",
-        image: 'https://pbs.twimg.com/profile_images/1136384584239632386/3oMInKza_400x400.jpg'
+        image: 'https://i0.wp.com/southseattleemerald.com/wp-content/uploads/2021/04/parkingenforcement_flickr_MackMale_cropped.jpg?fit=1200%2C675&ssl=1'
     },
     {
         name: 'Lot 14',
@@ -59,7 +59,7 @@ var parking_lots = [{
         lng: -87.0441,
         permitted: "Faculty, Staff, Visitor",
         desc: "Some parking areas are divided into specific permit zones. ",
-        image: 'https://pbs.twimg.com/profile_images/1136384584239632386/3oMInKza_400x400.jpg'
+        image: 'https://i0.wp.com/southseattleemerald.com/wp-content/uploads/2021/04/parkingenforcement_flickr_MackMale_cropped.jpg?fit=1200%2C675&ssl=1'
     },
     {
         name: 'Lot 15',
@@ -67,7 +67,7 @@ var parking_lots = [{
         lng: -87.04467,
         permitted: "Faculty, Staff, Visitor",
         desc: "Some parking areas are divided into specific permit zones. ",
-        image: 'https://pbs.twimg.com/profile_images/1136384584239632386/3oMInKza_400x400.jpg'
+        image: 'https://i0.wp.com/southseattleemerald.com/wp-content/uploads/2021/04/parkingenforcement_flickr_MackMale_cropped.jpg?fit=1200%2C675&ssl=1'
     },
     {
         name: 'Lot 19',
@@ -75,7 +75,7 @@ var parking_lots = [{
         lng: -87.04156,
         permitted: "Faculty, Staff, Visitor",
         desc: "Some parking areas are divided into specific permit zones. ",
-        image: 'https://pbs.twimg.com/profile_images/1136384584239632386/3oMInKza_400x400.jpg'
+        image: 'https://i0.wp.com/southseattleemerald.com/wp-content/uploads/2021/04/parkingenforcement_flickr_MackMale_cropped.jpg?fit=1200%2C675&ssl=1'
     },
 
     {
@@ -84,7 +84,7 @@ var parking_lots = [{
         lng: -87.04342,
         permitted: "Faculty, Staff, Visitor",
         desc: "Some parking areas are divided into specific permit zones. ",
-        image: 'https://pbs.twimg.com/profile_images/1136384584239632386/3oMInKza_400x400.jpg'
+        image: 'https://i0.wp.com/southseattleemerald.com/wp-content/uploads/2021/04/parkingenforcement_flickr_MackMale_cropped.jpg?fit=1200%2C675&ssl=1'
     },
     {
         name: 'Lot 21',
@@ -92,7 +92,7 @@ var parking_lots = [{
         lng: -87.04441,
         permitted: "Faculty, Staff, Visitor",
         desc: "Some parking areas are divided into specific permit zones. ",
-        image: 'https://pbs.twimg.com/profile_images/1136384584239632386/3oMInKza_400x400.jpg'
+        image: 'https://i0.wp.com/southseattleemerald.com/wp-content/uploads/2021/04/parkingenforcement_flickr_MackMale_cropped.jpg?fit=1200%2C675&ssl=1'
     },
     {
         name: 'Lot 22',
@@ -100,7 +100,7 @@ var parking_lots = [{
         lng: -87.04469,
         permitted: "Faculty, Staff, Visitor",
         desc: "Some parking areas are divided into specific permit zones. ",
-        image: 'https://pbs.twimg.com/profile_images/1136384584239632386/3oMInKza_400x400.jpg'
+        image: 'https://i0.wp.com/southseattleemerald.com/wp-content/uploads/2021/04/parkingenforcement_flickr_MackMale_cropped.jpg?fit=1200%2C675&ssl=1'
     },
     {
         name: 'Lot 30',
@@ -108,7 +108,7 @@ var parking_lots = [{
         lng: -87.04469,
         permitted: "Faculty, Staff, Visitor",
         desc: "Some parking areas are divided into specific permit zones. ",
-        image: 'https://pbs.twimg.com/profile_images/1136384584239632386/3oMInKza_400x400.jpg'
+        image: 'https://i0.wp.com/southseattleemerald.com/wp-content/uploads/2021/04/parkingenforcement_flickr_MackMale_cropped.jpg?fit=1200%2C675&ssl=1'
     },
 ];
 
