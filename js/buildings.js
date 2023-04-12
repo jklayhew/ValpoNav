@@ -148,7 +148,7 @@ var buildings = [{
     lng: -87.04435,
     link: './oncampus.html?buildingIndex=',
     desc: "Linwood House is an university building in Indiana. Linwood House is situated nearby to Christopher Center and Athletics–Recreation Center.",
-    image: '',
+    image: 'https://scontent-ord5-1.xx.fbcdn.net/v/t1.18169-9/431428_292010687530877_168359220_n.jpg?stp=c81.0.478.250a_dst-jpg&_nc_cat=109&ccb=1-7&_nc_sid=e3f864&_nc_ohc=20Ques8R5sYAX_CcWpE&_nc_ht=scontent-ord5-1.xx&oh=00_AfAITQ3R2wGvBkJtrPYmCdIKTt3WmyBm7Ck_mZBSo358sw&oe=645E48C2',
     pdf:'./floorplans/LIN - Linwood House - Floor Plans.pdf'
 },
 {
